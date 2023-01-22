@@ -1,0 +1,30 @@
+
+
+.mas:hover{
+    background-color: black;
+    color: white;
+}
+
+.mas{
+    margin-left: 5px;
+}
+
+
+.none{
+    display: none;
+}
+
+.carrito{
+    color: white;
+    height: 25px;
+    margin-top: 25px;
+    margin-right: 55px;
+}
+
+.carrito:hover{
+    color: green;
+}
+
+.linkCarrito{
+    text-decoration: none;
+}

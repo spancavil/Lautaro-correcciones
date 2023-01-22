@@ -1,0 +1,21 @@
+.divProductosCart{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 80px;
+    color: white;
+    margin-bottom: 200px;
+}
+
+.imgCarrito{
+    height: 250px;
+}
+
+.h1Carrito{
+    text-align: center;
+}

@@ -1,0 +1,127 @@
+.detailT{
+    margin-top: 60px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+
+.spanCarrito{
+    color:white;
+    
+}
+
+
+.verPrecio{
+    font-size: 40px;
+    color: white;
+    margin-top: -18px;
+    margin-left: 15px;
+}
+
+.imgComprar{
+    height: 400px;
+    margin-top: 30px;
+    width: 800px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.divProductoElegido{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    background-color: white;
+    border-radius: 30px;
+    background-image: url("https://cdn.wallpapersafari.com/48/97/jN2JiQ.jpg");
+    background-size: cover;
+}
+
+.botonesComprar{
+    margin-top: 30px;
+    flex-direction: row;
+}
+
+.botonVer{
+    background-color: green;
+    height: 30px;
+    position: relative;
+    left: -280px;
+}
+
+.botonVer:hover{
+    background-color: lightgreen;
+}
+
+.botonComprar{
+    background-color: rgb(112, 112, 245);
+    height: 30px;
+}
+
+.botonComprar:hover{
+    background-color: lightblue;
+}
+
+.botonSumar{
+    position: relative;
+    left: -20px;
+}
+
+.botonRestar{
+    position: relative;
+    right: -20px;
+}
+
+
+.botonesVer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 335px;
+}
+
+.h1Comprar{
+    background: url("https://i.pinimg.com/originals/f7/96/d0/f796d024fc5f066a1c4707bedbb0c2ea.jpg");
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 5px black;
+    color: white;
+}
+
+.h1MensajeComprar{
+    color: white;
+}
+
+
+.descripcion{
+    color: white;
+    margin-top: 10px;
+    padding: 40px;
+}
+
+
+.BotonIrAcart{
+    background-color: white;
+    margin-bottom: 50px;
+    width: 190px;
+}
+
+.BotonIrAcart:hover{
+    background-color: lightblue;
+
+}
+
+.dentroDelBoton{
+    margin-bottom:140px;
+    text-decoration: none;
+    color: black;
+}
+
+.dentroDelBoton:hover{
+    color: black;
+}
+
+.divPreCompra{
+    margin-bottom: 200px;
+}

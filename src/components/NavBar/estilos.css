@@ -1,0 +1,39 @@
+
+
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: inherit;
+}
+
+
+
+.titulo{
+    font-size: 27px;
+}
+
+
+.nav-item{
+    font-size: 20px;
+}
+
+.linkCarrito{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.carrito{
+    color: white;
+    height: 25px;
+}
+
+.carrito:hover{
+    color: green;
+}
+
+
+
